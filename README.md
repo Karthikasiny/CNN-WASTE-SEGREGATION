@@ -1,0 +1,2 @@
+# CNN-WASTE-SEGREGATION
+CNN-Waste-Segregation
