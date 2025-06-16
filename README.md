@@ -36,3 +36,43 @@ The Dataset consists of images of some common waste materials.
 # tensorflow version: 2.18.0
 # keras version: 3.8.0
 # sklearn version: 1.6.1
+
+# 🧾 Conclusion
+Project Objective Recap: You set out to build a CNN-based waste material classifier to categorize waste images into categories like:
+
+Paper
+
+Plastic
+
+Cardboard
+
+Glass
+
+Metal
+
+Food Waste
+
+Other
+
+Loaded and preprocessed the dataset
+
+✅ Visualized data distribution and samples
+
+✅ Resized, encoded, and split the dataset
+
+✅ Built and trained a CNN from scratch
+
+✅ Evaluated the model with precision, recall, F1-score, and confusion matrix
+
+✅ Applied data augmentation to improve generalization
+Generate a PDF Report We'll generate a PDF summarizing:
+
+Model architecture
+
+Training accuracy/loss plots
+
+Performance metrics (accuracy, precision, recall, F1-score)
+
+Confusion matrix
+
+Sample prediction
